@@ -10,7 +10,7 @@ and the one that needs you looks like it needs you.
 
 Works with Claude Code, Codex, and Opencode.
 
-**Status: pre-alpha (v0.1.0).** Free to use. macOS only for now.
+**Status: pre-alpha.** Free to use. macOS only for now.
 
 This repository exists to host the downloads. The source isn't public yet.
 
