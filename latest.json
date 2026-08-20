@@ -1,0 +1,21 @@
+{
+  "version": "0.3.0",
+  "assets": [
+    {
+      "name": "SpriteAgents-mac-arm64.dmg",
+      "downloadUrl": "https://github.com/sickpancake/spriteagents-releases/releases/download/v0.3.0/SpriteAgents-mac-arm64.dmg"
+    },
+    {
+      "name": "SpriteAgents-mac-arm64.zip",
+      "downloadUrl": "https://github.com/sickpancake/spriteagents-releases/releases/download/v0.3.0/SpriteAgents-mac-arm64.zip"
+    },
+    {
+      "name": "SpriteAgents-mac-x64.dmg",
+      "downloadUrl": "https://github.com/sickpancake/spriteagents-releases/releases/download/v0.3.0/SpriteAgents-mac-x64.dmg"
+    },
+    {
+      "name": "SpriteAgents-mac-x64.zip",
+      "downloadUrl": "https://github.com/sickpancake/spriteagents-releases/releases/download/v0.3.0/SpriteAgents-mac-x64.zip"
+    }
+  ]
+}
